@@ -6,7 +6,6 @@
 
 <body>
 	<p>Hello World</p>
-	<p>TEST</p>
 </body>
 
 </html>
